@@ -148,5 +148,5 @@ https://playwright.dev/docs
 > await page.locator('#termsCheckbox').uncheck();
 > ```
 >
-> 
+> test
 
